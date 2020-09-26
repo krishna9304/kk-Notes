@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(231, 231, 231);
+}
+.noteTitle{
+    display: flex;
+    justify-content: space-between;
+}
+
+#heading{
+    font-family: 'Dancing Script', cursive;
+}
+.card{
+    box-shadow: 2px 2px 2px 2px rgb(20, 168, 0);
+}
+.noteCard{
+    box-shadow: 2px 2px 2px 2px rgb(48, 48, 48);
+}
